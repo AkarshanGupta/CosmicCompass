@@ -10,7 +10,6 @@ CosmicCompass is an AI-powered space exploration platform that provides real-tim
 
 ## Tech Stack 🛠️
 - **Frontend:** Gradio
-- **Backend:** FastAPI
 - **AI Model:** Google Gemma 2B
 - **Data Sources:** NASA API
 
@@ -18,7 +17,7 @@ CosmicCompass is an AI-powered space exploration platform that provides real-tim
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CosmicCompass.git
+   git clone https://github.com/AkarshanGupta/CosmicCompass.git
    cd CosmicCompass
    ```
 
