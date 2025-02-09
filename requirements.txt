@@ -1,0 +1,10 @@
+gradio
+torch
+transformers
+numpy
+pandas
+scikit-learn
+requests
+python-dotenv
+gunicorn
+accelerate
